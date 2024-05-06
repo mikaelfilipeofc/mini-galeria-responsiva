@@ -8,7 +8,7 @@ Galeria de fotos Simples, Projeto criado apenas para treinar design responsivo
 
 ### Screenshot Desktop 💻
 
-<img src="/portfolio.png" />
+<img src="/desktop.png" />
 
 ### Screenshot Mobile 📱
 
