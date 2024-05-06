@@ -12,7 +12,7 @@ Galeria de fotos Simples, Projeto criado apenas para treinar design responsivo
 
 ### Screenshot Mobile 📱
 
-<img src="/portfoliomobile.jpeg" width="200" height="400" />
+<img src="/mobile.jpeg" width="200" height="400" />
 
 ### Tecnologias usadas 📚
 
