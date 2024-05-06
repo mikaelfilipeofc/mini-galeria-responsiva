@@ -4,7 +4,7 @@ Galeria de fotos Simples, Projeto criado apenas para treinar design responsivo
 
 ### Preview 👀
 
-(https://portmikael.netlify.app/)
+(https://minigalephot.netlify.app/)
 
 ### Screenshot Desktop 💻
 
